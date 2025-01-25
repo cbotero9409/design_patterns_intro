@@ -9,10 +9,6 @@ public class WorkWithAnimals {
     fido.digHole();
     fido.setWeight(-1);
 
-    int randNum = 10;
-    fido.changeVar(randNum);
-    System.out.println("randNum after method call: " + randNum);
-
     changeObjectName(fido);
     System.out.println("Dog name after method call: " + fido.getName());
 
