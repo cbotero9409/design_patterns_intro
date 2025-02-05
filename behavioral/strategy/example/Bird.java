@@ -1,0 +1,8 @@
+package behavioral.strategy.example;
+public class Bird extends Animal {
+  public Bird() {
+    super();
+
+    flyingType = new ItFlys();
+  }
+}
