@@ -1,4 +1,3 @@
-package creational.prototype.example;
 public class TestCloning {
 
   public static void main(String[] args) {

@@ -1,4 +1,3 @@
-package creational.builder.example;
 public class RobotEngineer {
 
   private RobotBuilder robotBuilder;

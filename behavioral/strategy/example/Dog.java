@@ -1,4 +1,3 @@
-package behavioral.strategy.example;
 public class Dog extends Animal {
 
   public void digHole() {
@@ -15,11 +14,5 @@ public class Dog extends Animal {
     /////////////
 
   }
-
-  // public void changeVar(int randNum) {
-  //   randNum = 12;
-  //   System.out.println("randNum in method: " + randNum);
-  // }
-
-
+  
 } 

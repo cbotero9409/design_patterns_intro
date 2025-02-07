@@ -1,5 +1,3 @@
-package behavioral.observer.example;
-
 import java.util.ArrayList;
 
 public class StockGrabber implements Subject {

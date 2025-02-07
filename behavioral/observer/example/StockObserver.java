@@ -1,4 +1,3 @@
-package behavioral.observer.example;
 public class StockObserver implements Observer {
 
   private double ibmPrice;

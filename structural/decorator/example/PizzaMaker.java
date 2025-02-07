@@ -1,4 +1,3 @@
-package structural.decorator.example;
 public class PizzaMaker {
 
   public static void main(String[] args) {

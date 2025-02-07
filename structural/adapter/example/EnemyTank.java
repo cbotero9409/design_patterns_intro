@@ -1,4 +1,3 @@
-package structural.adapter.example;
 public class EnemyTank implements EnemyAttacker {
 
   @Override

@@ -1,4 +1,3 @@
-package structural.adapter.example;
 public class EnemyRobot {
 
   public void smashWithHands() {

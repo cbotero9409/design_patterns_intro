@@ -1,4 +1,3 @@
-package creational.builder.example;
 public class Robot implements RobotPlan {
 
   private String robotHead;

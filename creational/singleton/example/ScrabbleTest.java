@@ -1,5 +1,3 @@
-package creational.singleton.example;
-
 import java.util.LinkedList;
 
 

@@ -1,4 +1,3 @@
-package creational.prototype.example;
 public class Sheep implements Animal {
 
   public Sheep() {

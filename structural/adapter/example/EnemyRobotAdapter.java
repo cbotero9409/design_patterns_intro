@@ -1,4 +1,3 @@
-package structural.adapter.example;
 public class EnemyRobotAdapter implements EnemyAttacker {
 
   private EnemyRobot theRobot;

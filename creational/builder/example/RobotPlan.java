@@ -1,4 +1,3 @@
-package creational.builder.example;
 public interface RobotPlan {
 
   public void setRobotHead(String head);

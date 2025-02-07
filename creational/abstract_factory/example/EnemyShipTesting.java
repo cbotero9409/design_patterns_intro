@@ -1,4 +1,3 @@
-package creational.abstract_factory.example;
 public class EnemyShipTesting {
   public static void main(String[] args) {    
     EnemyShipBuilding MakeUFOs = new UFOEnemyShipBuilding();

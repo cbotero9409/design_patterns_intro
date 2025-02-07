@@ -1,4 +1,3 @@
-package creational.abstract_factory.example;
 public abstract class EnemyShip {
   private String name;
   ESWeapon weapon;

@@ -1,4 +1,3 @@
-package behavioral.strategy.example;
 public class Animal {
 
   private String name;

@@ -1,4 +1,3 @@
-package structural.decorator.example;
 public class TomatoSauce extends ToppingDecorator {
 
   public TomatoSauce(Pizza newPizza) {

@@ -1,4 +1,3 @@
-package behavioral.strategy.example;
 public interface Flys {
   String fly();
 }

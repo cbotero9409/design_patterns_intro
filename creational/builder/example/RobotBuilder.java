@@ -1,4 +1,3 @@
-package creational.builder.example;
 public interface RobotBuilder {
 
   public void buildRobotHead();

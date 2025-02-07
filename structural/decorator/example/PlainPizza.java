@@ -1,4 +1,3 @@
-package structural.decorator.example;
 public class PlainPizza implements Pizza {
 
   @Override

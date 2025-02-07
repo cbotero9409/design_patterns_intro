@@ -1,4 +1,3 @@
-
 package creational.factory.example;
 
 public class EnemyShipFactory {

@@ -1,4 +1,3 @@
-package creational.abstract_factory.example;
 public class UFOEnemyShip extends EnemyShip {
 
   EnemyShipFactory shipFactory;

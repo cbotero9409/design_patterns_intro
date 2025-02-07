@@ -1,4 +1,3 @@
-package creational.builder.example;
 public class OldRobotBuilder implements RobotBuilder {
 
   private Robot robot;

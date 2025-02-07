@@ -1,4 +1,3 @@
-package behavioral.strategy.example;
 public class AnimalPlay {
   static public void main(String[] args) {
     Animal sparky = new Dog();

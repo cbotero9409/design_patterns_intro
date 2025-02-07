@@ -1,4 +1,3 @@
-package creational.abstract_factory.example;
 public class UFOEnemyShipBuilding extends EnemyShipBuilding {
 
   @Override

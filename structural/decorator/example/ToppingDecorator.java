@@ -1,4 +1,3 @@
-package structural.decorator.example;
 abstract class ToppingDecorator implements Pizza {
 
   protected Pizza tempPizza;
